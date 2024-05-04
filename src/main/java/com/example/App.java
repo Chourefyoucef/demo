@@ -14,7 +14,7 @@ public class App
         for (double num : numbers) {
             sum += num;
         }
-        
+         
         double average = sum / numbers.length;
         System.out.println("Average: " + average);
     }
